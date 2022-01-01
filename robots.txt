@@ -1,0 +1,4 @@
+Sitemap: https://mpf.github.io/FranklinEquations.jl/sitemap.xml
+
+User-agent: *
+Disallow:
